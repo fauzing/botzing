@@ -1,9 +1,3 @@
-## BACA DULU BANG
-
-> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeone-ofc/Alphabot-Md#For-Termux)
-
------------------------------------------------------
-
 <p align="center">
 <img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
 
@@ -34,8 +28,9 @@
 - [Information](#information)
 - [Language support](#support-language)
 - [Install bot](#instalasi)
-- [Install to Replit](for-replit-user)
-- [Install to Railway](for-railway-user)
+- [Buildpack heroku](#heroku-buildpack)
+- [Mongodb Account](#how-to-get-mongodb-uri)
+- [Mongodb Connect](#how-to-connect-to-mongodb)
 - [Install bot termux](#for-termux)
 - [Edit Owner](#edit-owner)
 - [Priview bot feature](#fitur-bot-preview)
@@ -58,26 +53,34 @@
 But some I haven't changed the language 🛐
 
 # Instalasi
-## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofc125/Alphabot-Md)](https://repl.it/github/zeeoneofc125/Alphabot-Md)
+## Heroku Buildpack
+```bash
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
 
-## FOR RAILWAY USER 
+## How to Get Mongodb URI
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md)
-
-[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
-
-----------
+- Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
 
 <p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
+<a href="https://youtu.be/M8H9S3djxTg"><img src="https://telegra.ph/file/682c1315ff9a43bb1a724.jpg" />
+</p>
+
+## HOW TO CONNECT TO MONGODB
+
+- [Tonton Di YouTube](https://youtu.be/lBEExh-09D8)
+
+<p align="center">
+<a href="https://youtu.be/lBEExh-09D8"><img src="https://telegra.ph/file/4464e566d6c578e1f94cd.jpg" />
 </p>
 
 ## For Termux
-- [Download script MediaFire](https://youtu.be/_D9JXY-ZVPY)
+- [Download script MediaFire](https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg)
 
 <p align="center">
-<a href="https://youtu.be/_D9JXY-ZVPY"><img src="https://telegra.ph/file/8e90b0380d07649dde65b.jpg" />
+<a href="https://youtu.be/983P1OwOzaE"><img src="https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg" />
 </p>
 
 ## Edit Owner 
@@ -110,24 +113,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "ZINGFO" //namabot kalian
-global.ownername= "ZAIFU" //nama kalian
-global.myweb ="-" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@fauzing" //bebas asal jan hapus
+global.botname = "Alphabot-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "rahasia" //bebas
+global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
-global.owner = ["6282159532255"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6282159532255" // nomor wa kalian
-global.ownernomerr = "+6282159532255" //nmr wa kalian
+global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "62887435047326" // nomor wa kalian
+global.ownernomerr = "+62887435047326" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ZINGFO' //sticker wm ubah
-global.author = 'SUBS FAUZING' //sticker wm ganti nama kalian
+global.packname = '© Alphabot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -213,6 +216,16 @@ global.rpg = {
 <img src="https://telegra.ph/file/ca4d6b39f9b596de02b9b.jpg" />
 </details>
 
+## ```HOW TO DEPLOY```
+
+[`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+</p>
+
 ## Donate
 - [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
 - [Paypal](https://paypal.me/zeeoneofc)
@@ -235,3 +248,6 @@ For Help | Owner Chikabot |
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
 
+# ZINGFO
+# ZINGFO
+# ZINGFO
